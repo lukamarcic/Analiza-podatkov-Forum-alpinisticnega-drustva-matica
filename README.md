@@ -6,14 +6,14 @@ Analiziral bom vse objave na forumu alpinističnih vzponov alpinističnega odsek
 
 
 Objave bom razvrstil po:
-  1) Datum objave
-  2) Uporabnik, ki je objavo ustvaril
-  3) število ogledov
-  4) število komentarjev
-  5) lokacijah alpinističnih vzponov, glede na naslov
+  1) Datumih
+  2) Uporabnikih, ki je objavo ustvarili
+  3) Številu ogledov
+  4) Številu komentarjev
+  5) Lokacijah alpinističnih vzponov, glede na naslov
   
-Delovne hipoteze:
-  1) razvrstiti uporabnike glede na število objav in odzive (komentarji in ogledi)
-  2) najbolj pogost čas objav v letu
-  3) najti najbolj pogosto plezane stene v Sloveniji, glede na objave
+Cilji analize:
+  1) Razvrstiti uporabnike glede na število objav in odzive (komentarji in ogledi)
+  2) Poiskati najbolj pogost čas objav v letu
+  3) Poiskati najbolj pogosto plezane stene v Sloveniji, glede na objave
   
